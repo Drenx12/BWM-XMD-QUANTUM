@@ -60,7 +60,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -74,7 +74,7 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "263710781795",
+      "description": "27620206611",
       "value": "true",
       "required": true 
     },
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "𝐷𝐵𝑌☆",
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌☆",
       "required": false
     },
     "SESSION_ID": {
-  "description":"BWM-XMD;;;H4sIAAAAAAAAA71Vy46jRhT9l9riHvMusNRSeNrGDbbb+BllgaHAYF4uCtt45G1WWUx22cxnRPmffMF8QkS7Wz3RPNKRorAqFVXnnnvvObfeg7yIKzRCDei9ByWOjx5B7ZI0JQI9oNZhiDDogMAjHugBylk7q7U+mq8mW0Jmg4E7N/YsDLoC2mYHYXqAJhXpyNBW/D24dkBZb9PY/w6g3RXXxtQdWylmuqdqOhobfl/Du3LDBrZqQi/KEgIVBuXFPbi2iF6M4zwyyh3KEPbSEWomXozfRj8b7qh8La7ospqgHPp+NKUyZ0hr8HCadBfbsWJ76YDNsFG8jf7UzB99K4tK1hXWcrhabhNLsBxiUXOVXW5ZcT+S5qGRzePqRr+KoxwFwwDlJCbNm+s+e9iqaCF0N7Mdzx0n9Vik+hubzY8c5Obe6UHc65vJWRHd1f5txEdjg0ttmTXY9VntDzfqsW/sozHHHyXfz5Li4TzUz25SrLm/EZ/gF63s/03dfeUgm16+mid5PcB06VqXYbJe0o9M4/T5xUNiHuhQQdVDNn0bfV8bXUSOxi6cUZP54zIpWMfjOc0SFdE1aN0fhdt+GdPqSnql75Eaf4+ly+OlrQ4Cf+hu9n1KpS7GqhjsiVXvRvE58bvnxYDpayHmJnCINCE4uCmWJ/ZuIFKjah+uHHn5aCepgcukO0gn5rZYJdH9U0Z71AwD0GOuHYBRFFcEeyQu8naP5ZkO8ILjDPkYkafyAr2QTu6ALdOQOD5beGZ3vOvvDycrauQlWhRTX36sRXXmBtE96IASFz6qKhQM4ooUuLFRVXkRqkDvx6dOtUljlBUEWXEAeoAVOcjQUGKgLPxQvTvtPFJ5ZfkuRwR0QIiLzEagR3CNOuB2QYYs1DRBUxlDlyWe4wSeV0Qo6yKtGJBrU8xuQd04QxXxshL0GMiLkiQyLH3t/Dc8TE2XdJqWZEmWDVNXDFZTWZ3ndcOAkibA/4uHbigCz0BGYjVB1BTD0BRG43RJEWloQlH4Bx7w+lMH5OhMbn5qVcAxHRDGuCLzvC7TwgtezPby0/P9os7JrMl9rV0gDHqfbSNC4jyq2szq3MP+Lj4irc0D9EIvrdC1AwJ0jH3U4gERrybWHQlmWoyqC7/R7EJYn1ol7Yr8dkTieEkOufCOCTh0x/Mcf7flvO0dKzEQiltWZEUI2nLcRll755vOOmsx5RereNkNL0ltYjyJVOVocnF2m7M3SyCMgpcqbz1/X5dusUf59xxbjAbmgo5F4thoibtNaSineTORDeMz3JvVQO/96/OhFUGLp0Hr0e5PXdB2q43zhRp6MvOlIHKvPQ0+ffzwx6ePH37/9PHXX/787ec24HM3WqgAES9OqzbKKN8TSzEMJ4NdX+n3FT9StEgBr917mU439xO2GeBEUPumIxl9SViNRtsi1bGlMBPSHQTjAbWnxovopM3vvwICegANE0tKDkdCXNtP6xmU8dywU9qoNl03pvTB4WGF86g+5o3GXczy3GUrk4L8pYKZGvmqueCXzeJis7hsmnk15KBw0Kb3bbSbij4PZq0d6oRNf2p2d4HfLKZmlq6lKKX0pkyVhbLM5kHWD9m09qS5WFsHJzVcVh4bi4gt9OCSckeHPp9mQ0npXyq71lNnv1Nuc/NpbqfP72X8PNFumgtj9PT8PHfjH7v2Kn/62vkM4/lB+4bE1G1Q7USemj7u3FBVj+NFE2eiNRWbqePC8My5u245SdK1raTg2vq6TD0SFjgDPeDlAS7iAHRA6lVEeXXwV4YCI3VA1ihlOSMeeTE+UNpvvInA9S9SvW15qwkAAA==",
+  "description": "BWM-XMD;;;H4sIAAAAAAAAA71V247qRhb9l3qFE3y/ILUUXzHQgAHTXEZ5KOzC2BhfqsoYc8TbaB6iPJw8REoe+jOime/JF/QnjNx0q1uZ5KRHGo2fSnZ57bX3XnvtzyDNIoKGqAbdzyDH0QlS1BxpnSPQBXq52yEM2iCAFIIuMPSFPZtqQRxOzh018Ce4LITSWg/qQW944i7DxXAlFEmVr8I7cG2DvNwmkf81QAO6Z06/b1VbFJdDfRVucqxuo1Y+bG0WR2zoiWt1+pOq9u/AtUGEEY7S0Mr36IgwTIaodmGEP0ZfmHjy3B5LWV5MJ5usqCPhXBNzVK3igXWOp9bCcj1b6o/S9cfox+XES8RhOi2W5rxcRTXLzpl4cQr3om+r6+NDvu4IMeLXs/WNPonCFAX9AKU0ovWH6+7f4/zMoBV+8I/LDuyEuR6ak7Nt7adnzhqMZwpc1toDCS3rY8Qvl23fNHxZK6AUHu6rBR9c/D1EbDxLWz1CHCXMFnBDoXN4T9zFr1o5/Dd1LyZ8SJLlYIY0NT3U4pBZ43Qx0cfTVuWYvZYnEzfW+2MzET5GP5p71YEJTzPFIf15dNZRNBlswvyo6MMLsxQG815HnxrrybR6ow9pib/GcqR4XKgEnJeb7Dp0jssWNecxq4sXJ1pFHf6h8vbbEVwzleEcuXubDYaRacLxxc1kIUhEd5jNt3IsTllzJa4CXy3EItbunjM6oLofgC57bQOMwohQDGmUpc07jhHaAAanOfIxos/lBUdzlSuKFBzGNuptFLOzTwSiuYeiQ5OOVRiUqfDISjhNY+5AG+Q48xEhKHAiQjNcjxAhMEQEdP/23KkmaYyOGUWDKABdwMkSx3CMJLHst+Sbag8pgXn+TYooaIMdzo4jBLoUl6gNnu8ztmobhsjovMpqusyalqnZgsgqvMTKiiw0GR5vMb3oiAiFxxx0WVmQGZGRZPba/p/QkERdNwSeZxnFNBiLFTVFVkVdMgVJ0lWd/T/RMDTJECVJF1mZtW1NU2yeFzieF2VVU2WD+wsa6vW7NkjRmd6GqZEAz7bBLsKELtIyTzIYvE7a60fo+1mZ0nmd+kZzQBh0371GlEZpSJrEyhRifx+dkNHkAbo7mBB0bYMAnSIfNXhgJJ5NkqnOLIy4Xs5jzGaOGTYy2mfp7Yq4VZDM8confsfxn4RA4j9tWVX8tEU8zzEyq/hQAE05bj7W/POnY7XsD9VlkRR4p6lMwhKdEkex6r1/vnnVbR4QRsFrlbfQP5S5lx1Q+hVcyyZw1FHXq8tpF2cjGtaucTp4fXWjvcO9zRnofn7bHUYWNHirFef1LG8Jmm41cX4vhi4v/KceUthcBk+PX/759PjlX7/9/aenxy+/Pj3+8v3T448//PbzP5rQL31pQANEYZSQRjauSbHP2NbQ1PeK1etpi1AzQg289fHVpG4m4LcSyc652cTx4rxX1aRV6dbqgrdKyeoj6spqxblFuWHOi7s/AAFdcOAGyYIEbhYMeccrBDdnYWaoVCgcaZtWY348W8P+SdEfvFnQQ2EUb1ok4KlT0Zay8yq019YDwg3L+mTsMMNYfAvq07sm2k1P74MV+gVrGzjdnctlfJ9v/DmS2OmDvgyDelwiU3bHGneRSK83GUFmurYc3emUx3Ei8NzC6VStfjqll6Gz0bZstOpbrqlGYXWzz2f7Tl7WZvRibDf17SL0vIVeGvNX/XubA+bafgfxstb+RGv6ys3RHgYHb88I0oyMsEu0ma1IXOeeTr17r9Xxx7GEj8HoAVybAc8TSHcZPoIugGmAsygAbZBAQrW3Uf4Dd5DUNjjWWp7PKaSvDgC05jF2a3D9N85oTcuxCQAA",
       "value": "true",
       "required": true
     },    
